@@ -1,0 +1,47 @@
+In this course you gonna learn everything you need to get started programming in python.
+
+Python is one of the most programming languages.
+
+SO Let's get started
+
+What is Python?
+
+Python is a Interpreted, Functional and Object Oriented High level Programming Language.
+
+Simple syntax , hence easy to create and maintain python based applications.
+
+It has several build-in libraries or modules which provides the functionality we want
+
+So now , Let's summarize what is Python
+
+Interpreted - very quick as  no compiler and compilation needed step
+
+Its functional as well as it supports all object oriented principles.
+
+/* Don't need this
+
+Functional programming is a programming paradigm in which we try to bind everything in pure mathematical functions style. It is a declarative type of programming style. Its main focus is on “what to solve” in contrast to an imperative style where the main focus is “how to solve”. It uses expressions instead of statements. An expression is evaluated to produce a value whereas a statement is executed to assign variables
+
+*/
+
+Very easy to learn because of it's syntax
+
+Why Python ?
+
+easy to learn and use 
+ 
+performance is super good as interpreted language 
+
+rapid development as it has a lot of inbuild libraries
+
+dynamically typed that is you don't have to specify type of variable
+
+community and third party libraries -  a huge community and easily compatible with third party libraries
+
+Some more pros in pythons -
+
+Python supports GUI applications that can be created and ported to many system .
+
+Python provides interfaces to all major commercial databases.
+
+
